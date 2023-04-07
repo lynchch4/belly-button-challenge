@@ -69,7 +69,7 @@ function graphs(set) {
             y: topOtu,
             type: "bar",
             orientation: "h",
-            hoverinfo: otuLabel    
+            text: otuLabel    
         };
 
         let layout1 = {
